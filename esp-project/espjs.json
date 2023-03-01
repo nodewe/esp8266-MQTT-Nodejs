@@ -1,0 +1,16 @@
+{
+    "BaudRate": 115200,
+    "Board": "",
+    "Flash": "",
+    "Ignore": [
+        "espjs.json",
+        "package.json",
+        ".git/*",
+        "node_modules/*"
+    ],
+    "Scripts": {
+        "test": "blink"
+    },
+    "Modules": {
+    }
+}
